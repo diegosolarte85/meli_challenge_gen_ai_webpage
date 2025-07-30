@@ -1,0 +1,286 @@
+[
+  {
+    "id": "samsung-galaxy-s24-fe-5g",
+    "title": "Samsung Galaxy S24 FE 8 Gb Ram 256 Gb Rom 5g Grafito",
+    "description": "El Samsung Galaxy S24 FE combina lo mejor de la tecnología Samsung en un dispositivo accesible. Con su pantalla Dynamic AMOLED 2X de 6.4 pulgadas, cámara triple de 50MP y procesador Exynos 1480, ofrece un rendimiento excepcional para el día a día.",
+    "price": 1929500,
+    "originalPrice": 3709900,
+    "discount": 47,
+    "currency": "COP",
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_704357-MLA80167106242_112024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_855081-MLA80167106248_112024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_899748-MLA80166910362_112024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_969269-MLA80167106254_112024-O.webp"
+    ],
+    "seller": {
+      "name": "Samsung Colombia",
+      "rating": 4.8,
+      "reviews": 68,
+      "official": true,
+      "logo": "https://http2.mlstatic.com/D_NQ_NP_984015-MLA74975093699_032024-G.jpg"
+    },
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "screen": "6.4 pulgadas Dynamic AMOLED 2X",
+      "camera": "Triple cámara: 50MP + 12MP + 8MP",
+      "battery": "4500 mAh",
+      "processor": "Exynos 1480",
+      "os": "Android 14, One UI 6.1"
+    },
+    "stock": 15,
+    "shipping": {
+      "free": true,
+      "method": "FULL",
+      "estimatedDays": "1-2 días"
+    },
+    "warranty": "1 año de garantía",
+    "paymentMethods": {
+      "creditCard": {
+        "installments": 12,
+        "monthlyPayment": 160792,
+        "interest": 0
+      },
+      "debitCard": true,
+      "transfer": true,
+      "cash": true
+    },
+    "highlights": [
+      "Memoria RAM: 8 GB",
+      "Dispositivo liberado para que elijas la compañía telefónica que prefieras",
+      "Memoria interna de 256GB",
+      "Pantalla Dynamic AMOLED 2X de 6.4 pulgadas",
+      "Cámara triple con IA"
+    ],
+    "colors": [
+      {
+        "name": "Negro",
+        "code": "#000000",
+        "available": true
+      },
+      {
+        "name": "Azul",
+        "code": "#0066CC",
+        "available": true
+      }
+    ],
+    "promotions": [
+      "OFERTA DEL DÍA",
+      "MÁS VENDIDO",
+      "5º en Celulares y Smartphones Samsung"
+    ],
+    "category": "Celulares y Smartphones",
+    "brand": "Samsung",
+    "model": "Galaxy S24 FE"
+  },
+  {
+    "id": "xiaomi-redmi-note-14",
+    "title": "Xiaomi Redmi Note 14 8 Gb +256gb 4g",
+    "description": "El Redmi Note 14 ofrece un excelente rendimiento con su procesador MediaTek Dimensity 7200 Ultra y una pantalla AMOLED de 6.67 pulgadas. Perfecto para usuarios que buscan calidad a un precio accesible.",
+    "price": 1099900,
+    "originalPrice": 1299900,
+    "discount": 15,
+    "currency": "COP",
+    "images": [
+      "https://http2.mlstatic.com/D_Q_NP_2X_754607-MCO85370037927_052025-AB.webp",
+      "https://http2.mlstatic.com/D_Q_NP_2X_754607-MCO85370037927_052025-AB.webp"
+    ],
+    "seller": {
+      "name": "Xiaomi Store Colombia",
+      "rating": 4.6,
+      "reviews": 42,
+      "official": true,
+      "logo": "https://http2.mlstatic.com/D_NQ_NP_2X_754607-MCO85370037927_052025-AB.webp"
+    },
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "screen": "6.67 pulgadas AMOLED",
+      "camera": "Triple cámara: 108MP + 8MP + 2MP",
+      "battery": "5000 mAh",
+      "processor": "MediaTek Dimensity 7200 Ultra",
+      "os": "Android 13, MIUI 14"
+    },
+    "stock": 8,
+    "shipping": {
+      "free": true,
+      "method": "FULL",
+      "estimatedDays": "1-2 días"
+    },
+    "warranty": "1 año de garantía",
+    "paymentMethods": {
+      "creditCard": {
+        "installments": 3,
+        "monthlyPayment": 366633,
+        "interest": 0
+      },
+      "debitCard": true,
+      "transfer": true,
+      "cash": true
+    },
+    "highlights": [
+      "Memoria RAM: 8 GB",
+      "Dispositivo liberado",
+      "Memoria interna de 256GB",
+      "Pantalla AMOLED de 6.67 pulgadas",
+      "Cámara de 108MP"
+    ],
+    "colors": [
+      {
+        "name": "Negro",
+        "code": "#000000",
+        "available": true
+      },
+      {
+        "name": "Azul",
+        "code": "#0066CC",
+        "available": true
+      }
+    ],
+    "promotions": [
+      "ENVÍO GRATIS",
+      "OFERTA ESPECIAL"
+    ],
+    "category": "Celulares y Smartphones",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14"
+  },
+  {
+    "id": "zte-blade-v70",
+    "title": "Zte Blade V70 Dual Sim 256gb 8gb Ram",
+    "description": "El ZTE Blade V70 combina diseño elegante con tecnología avanzada. Con su pantalla de 6.67 pulgadas y cámara triple, ofrece una experiencia fotográfica excepcional.",
+    "price": 509900,
+    "originalPrice": 850000,
+    "discount": 40,
+    "currency": "COP",
+    "images": [
+      "https://http2.mlstatic.com/D_Q_NP_2X_759387-MCO82866861682_032025-AB.webp"
+    ],
+    "seller": {
+      "name": "ZTE Colombia",
+      "rating": 4.4,
+      "reviews": 23,
+      "official": true,
+      "logo": "https://http2.mlstatic.com/D_Q_NP_2X_759387-MCO82866861682_032025-AB.webp"
+    },
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "screen": "6.67 pulgadas IPS LCD",
+      "camera": "Triple cámara: 64MP + 8MP + 2MP",
+      "battery": "5000 mAh",
+      "processor": "MediaTek Dimensity 700",
+      "os": "Android 12"
+    },
+    "stock": 12,
+    "shipping": {
+      "free": true,
+      "method": "FULL",
+      "estimatedDays": "1-2 días"
+    },
+    "warranty": "1 año de garantía",
+    "paymentMethods": {
+      "creditCard": {
+        "installments": 3,
+        "monthlyPayment": 169967,
+        "interest": 0
+      },
+      "debitCard": true,
+      "transfer": true,
+      "cash": true
+    },
+    "highlights": [
+      "Memoria RAM: 8 GB",
+      "Dispositivo liberado",
+      "Memoria interna de 256GB",
+      "Pantalla de 6.67 pulgadas",
+      "Cámara de 64MP"
+    ],
+    "colors": [
+      {
+        "name": "Negro",
+        "code": "#000000",
+        "available": true
+      }
+    ],
+    "promotions": [
+      "40% OFF",
+      "ENVÍO GRATIS"
+    ],
+    "category": "Celulares y Smartphones",
+    "brand": "ZTE",
+    "model": "Blade V70"
+  },
+  {
+    "id": "motorola-edge-40",
+    "title": "Motorola Edge 40 8 Gb Ram 256 Gb Rom",
+    "description": "El Motorola Edge 40 ofrece una experiencia premium con su pantalla pOLED de 6.55 pulgadas y cámara dual de 50MP. Diseño elegante y rendimiento excepcional.",
+    "price": 1599900,
+    "originalPrice": 1999900,
+    "discount": 20,
+    "currency": "COP",
+    "images": [
+      "https://http2.mlstatic.com/D_Q_NP_2X_123456-MCO123456789_012024-AB.webp"
+    ],
+    "seller": {
+      "name": "Motorola Colombia",
+      "rating": 4.7,
+      "reviews": 35,
+      "official": true,
+      "logo": "https://http2.mlstatic.com/D_NQ_NP_2X_123456-MCO123456789_012024-G.jpg"
+    },
+    "specifications": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "screen": "6.55 pulgadas pOLED",
+      "camera": "Dual cámara: 50MP + 13MP",
+      "battery": "4400 mAh",
+      "processor": "MediaTek Dimensity 8020",
+      "os": "Android 13"
+    },
+    "stock": 6,
+    "shipping": {
+      "free": true,
+      "method": "FULL",
+      "estimatedDays": "1-2 días"
+    },
+    "warranty": "1 año de garantía",
+    "paymentMethods": {
+      "creditCard": {
+        "installments": 6,
+        "monthlyPayment": 266650,
+        "interest": 0
+      },
+      "debitCard": true,
+      "transfer": true,
+      "cash": true
+    },
+    "highlights": [
+      "Memoria RAM: 8 GB",
+      "Dispositivo liberado",
+      "Memoria interna de 256GB",
+      "Pantalla pOLED de 6.55 pulgadas",
+      "Cámara de 50MP"
+    ],
+    "colors": [
+      {
+        "name": "Negro",
+        "code": "#000000",
+        "available": true
+      },
+      {
+        "name": "Azul",
+        "code": "#0066CC",
+        "available": true
+      }
+    ],
+    "promotions": [
+      "20% OFF",
+      "ENVÍO GRATIS"
+    ],
+    "category": "Celulares y Smartphones",
+    "brand": "Motorola",
+    "model": "Edge 40"
+  }
+] 
