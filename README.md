@@ -315,4 +315,3 @@ This project is licensed under the MIT License.
 - MercadoLibre for design inspiration
 - React and Node.js communities
 - Unsplash for sample images
-
