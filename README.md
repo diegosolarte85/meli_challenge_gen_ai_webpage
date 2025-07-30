@@ -1,5 +1,7 @@
 # MercadoLibre Product Detail Page
 
+🌐 **[Live Demo - View Deployed App](https://meli-challenge-webapp-46cf0c2175f5.herokuapp.com/)**
+
 A prototype for a MercadoLibre-inspired product detail page with both frontend and backend components. This project demonstrates modern web development practices with React frontend and Node.js backend.
 
 ## 🚀 Features
